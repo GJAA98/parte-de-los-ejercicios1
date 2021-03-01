@@ -1,0 +1,13 @@
+C:\Users\YeisonPX\source\repos\Practica_ordenar_numeros\Practica_ordenar_numeros\bin\Debug\netcoreapp3.1\Practica_ordenar_numeros.exe
+C:\Users\YeisonPX\source\repos\Practica_ordenar_numeros\Practica_ordenar_numeros\bin\Debug\netcoreapp3.1\Practica_ordenar_numeros.deps.json
+C:\Users\YeisonPX\source\repos\Practica_ordenar_numeros\Practica_ordenar_numeros\bin\Debug\netcoreapp3.1\Practica_ordenar_numeros.runtimeconfig.json
+C:\Users\YeisonPX\source\repos\Practica_ordenar_numeros\Practica_ordenar_numeros\bin\Debug\netcoreapp3.1\Practica_ordenar_numeros.runtimeconfig.dev.json
+C:\Users\YeisonPX\source\repos\Practica_ordenar_numeros\Practica_ordenar_numeros\bin\Debug\netcoreapp3.1\Practica_ordenar_numeros.dll
+C:\Users\YeisonPX\source\repos\Practica_ordenar_numeros\Practica_ordenar_numeros\bin\Debug\netcoreapp3.1\Practica_ordenar_numeros.pdb
+C:\Users\YeisonPX\source\repos\Practica_ordenar_numeros\Practica_ordenar_numeros\obj\Debug\netcoreapp3.1\Practica_ordenar_numeros.csprojAssemblyReference.cache
+C:\Users\YeisonPX\source\repos\Practica_ordenar_numeros\Practica_ordenar_numeros\obj\Debug\netcoreapp3.1\Practica_ordenar_numeros.AssemblyInfoInputs.cache
+C:\Users\YeisonPX\source\repos\Practica_ordenar_numeros\Practica_ordenar_numeros\obj\Debug\netcoreapp3.1\Practica_ordenar_numeros.AssemblyInfo.cs
+C:\Users\YeisonPX\source\repos\Practica_ordenar_numeros\Practica_ordenar_numeros\obj\Debug\netcoreapp3.1\Practica_ordenar_numeros.csproj.CoreCompileInputs.cache
+C:\Users\YeisonPX\source\repos\Practica_ordenar_numeros\Practica_ordenar_numeros\obj\Debug\netcoreapp3.1\Practica_ordenar_numeros.dll
+C:\Users\YeisonPX\source\repos\Practica_ordenar_numeros\Practica_ordenar_numeros\obj\Debug\netcoreapp3.1\Practica_ordenar_numeros.pdb
+C:\Users\YeisonPX\source\repos\Practica_ordenar_numeros\Practica_ordenar_numeros\obj\Debug\netcoreapp3.1\Practica_ordenar_numeros.genruntimeconfig.cache
